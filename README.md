@@ -1,4 +1,4 @@
-<h1 align="center"> responsive.grid </h1>
+<h1 align="center"> ResponsiveGrid </h1>
 
 <p align="center">
 Programa exclusivo para estudo de tecnologias WEB.
